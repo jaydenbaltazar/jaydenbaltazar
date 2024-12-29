@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaydenbaltazar
 - 👀 I’m interested in ... everything in computer science 
-- 🌱 I’m currently learning ... python, html, and other languages
+- 🌱 I’m currently learning ... to live life, web dev, and other comp sci languages
 - 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ... linkedin jayden baltazar
 
